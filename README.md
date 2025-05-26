@@ -22,10 +22,10 @@ Benvenuto nella tua **lista IPTV personalizzata** con **EPG** integrata e suppor
 Queste liste utilizzano un proxy ospitato su **HuggingFace Spaces**.
 
 - **Lista M3U**  
-  [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u)
+  [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/lista.m3u`](https://raw.githubusercontent.com/7AlexZm7/TV/refs/heads/main/lista.m3u)
 
 - **EPG XML**  
-  [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml`](https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml)
+  [`https://raw.githubusercontent.com/nzo66/TV/refs/heads/main/epg.xml`](https://raw.githubusercontent.com/7AlexZm7/TV/refs/heads/main/epg.xml)
 
 ---
 
