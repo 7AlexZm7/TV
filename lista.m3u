@@ -1360,9 +1360,6 @@ https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="serieaplayoffsquarterfinalsgame5" tvg-name="Serie A Playoffs | Quarterfinals | Game 5 (17:55)" tvg-logo="https://png.pngtree.com/png-clipart/20230102/original/pngtree-croatia-vs-brazil-quarterfinals-png-image_8855912.png" group-title="Eventi Live",Serie A Playoffs | Quarterfinals | Game 5 (17:55)
-https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
-
 #EXTINF:-1 tvg-id="seriea2riminivsforli" tvg-name="Serie A2 : Rimini vs Forli (20:30)" tvg-logo="https://raw.githubusercontent.com/7AlexZm7/TV/main/logos/Rimini_vs_Forli.png" group-title="Eventi Live",Serie A2 : Rimini vs Forli (20:30)
 https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
