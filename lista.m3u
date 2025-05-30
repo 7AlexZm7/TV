@@ -1360,7 +1360,7 @@ https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://vavoo.to/play/2989824407
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="uefawomensnationsleagueitalyvssweden" tvg-name="UEFA Women's Nations League : Italy vs Sweden (18:20)" tvg-logo="https://www.footballkitarchive.com/static/logos/K9tuhvwcM0fvMPN/italy-1952-1982-logo.png" group-title="Eventi Live",UEFA Women's Nations League : Italy vs Sweden (18:20)
+#EXTINF:-1 tvg-id="uefawomensnationsleagueitalyvssweden" tvg-name="UEFA Women's Nations League : Italy vs Sweden (18:20)" tvg-logo="https://raw.githubusercontent.com/7AlexZm7/TV/main/logos/Italy_vs_Sweden.png" group-title="Eventi Live",UEFA Women's Nations League : Italy vs Sweden (18:20)
 https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-851.php
 
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
@@ -1372,7 +1372,7 @@ https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stre
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="formula3aramcospanishgrandprixpractice" tvg-name="Formula 3 : Aramco Spanish Grand Prix Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Formula 3 : Aramco Spanish Grand Prix Practice (10:00)
+#EXTINF:-1 tvg-id="formula3aramcospanishgrandprixpractice" tvg-name="Formula 3 : Aramco Spanish Grand Prix Practice (10:00)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png?v=1956079763323516600" group-title="Eventi Live",Formula 3 : Aramco Spanish Grand Prix Practice (10:00)
 https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-577.php
 
 #EXTINF:-1 tvg-id="formula2aramcospanishgrandprixfreepractice" tvg-name="Formula 2 : Aramco Spanish Grand Prix Free Practice (11:00)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Formula 2 : Aramco Spanish Grand Prix Free Practice (11:00)
@@ -1396,7 +1396,7 @@ https://example.m3u8
 #EXTINF:-1 tvg-id="italyseriea2goldpallacanestro2015forlivsrinascitabasketrimini" tvg-name="Italy, Serie A2 Gold : Pallacanestro 2.015 Forli vs. Rinascita Basket Rimini (20:00)" tvg-logo="https://raw.githubusercontent.com/7AlexZm7/TV/main/logos/Pallacanestro 2.015 Forli_vs_Rinascita Basket Rimini.png" group-title="Eventi Live",Italy, Serie A2 Gold : Pallacanestro 2.015 Forli vs. Rinascita Basket Rimini (20:00)
 https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-882.php
 
-#EXTINF:-1 tvg-id="italylegaabaskettrapanisharkvsgermanibrescia" tvg-name="Italy Lega A Basket : Trapani Shark vs Germani Brescia (20:45)" tvg-logo="https://trapanishark.it/wp-content/uploads/2023/07/Trapani-Logo-2023_SquareWEB.png" group-title="Eventi Live",Italy Lega A Basket : Trapani Shark vs Germani Brescia (20:45)
+#EXTINF:-1 tvg-id="italylegaabaskettrapanisharkvsgermanibrescia" tvg-name="Italy Lega A Basket : Trapani Shark vs Germani Brescia (20:45)" tvg-logo="https://trapanishark.it/wp-content/uploads/2024/09/Trapani-Shark_Logo-1.png" group-title="Eventi Live",Italy Lega A Basket : Trapani Shark vs Germani Brescia (20:45)
 https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-879.php
 
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
