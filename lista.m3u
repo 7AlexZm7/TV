@@ -1399,7 +1399,7 @@ https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stre
 #EXTINF:-1 tvg-name="Equestrian" group-title="Eventi Live",--- Equestrian ---
 https://example.m3u8
 
-#EXTINF:-1 tvg-id="leagueofnationsjumpingrotterdam" tvg-name="League of Nations Jumping | Rotterdam (19:15)" tvg-logo="https://www.playingforsuccess.nl/wp-content/uploads/2023/04/Sparta-Rotterdam-logo.png" group-title="Eventi Live",League of Nations Jumping | Rotterdam (19:15)
+#EXTINF:-1 tvg-id="leagueofnationsjumpingrotterdam" tvg-name="League of Nations Jumping | Rotterdam (19:15)" tvg-logo="https://static.wikia.nocookie.net/the-football-database/images/4/4b/Excelsior_Rotterdam.png/revision/latest?cb=20220831151529" group-title="Eventi Live",League of Nations Jumping | Rotterdam (19:15)
 https://alexzm7-prolatka.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-878.php
 
 #EXTINF:-1 tvg-name="Volleyball" group-title="Eventi Live",--- Volleyball ---
